@@ -704,11 +704,16 @@ figcaption {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    background: #F3976C;
+    color: #222222;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
     font-weight: 700;
+}
+
+.cta-hero:hover {
+    background: #f7b799;
 }
 
 .social {
@@ -770,7 +775,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(165, 147, 99);
     padding: 40px 40px 40px 40px;
 }
 
@@ -797,22 +802,16 @@ h4 {
     color: #222222;
 }
 
+.black {
+    color: #222222;
+}
+
 .bgc-dark-slate-blue h2 {
     color: #FFFFFF!important;
 }
 
 .tc-white {
     color: #F3976C!important;
-}
-
-.btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
-}
-
-.btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
 }
 
 .ltc-white {
