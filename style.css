@@ -285,6 +285,21 @@ a:hover {
     font-size: 32px;
 }
 
+.white-block {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.white-block .hero-contact-bloc-text {
+    color: #222222;
+}
+
+.black-block {
+    background-color: #222222;
+    padding: 20px;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -773,11 +788,6 @@ h4 {
 
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
-}
-
-.black-background {
-    background-color: rgba(165, 147, 99);
-    padding: 40px 40px 40px 40px;
 }
 
 .bold-link {
