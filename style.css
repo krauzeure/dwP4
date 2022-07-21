@@ -288,7 +288,6 @@ a:hover {
 .white-block {
     background-color: #ffffff;
     padding: 20px;
-    border-radius: 20px;
 }
 
 .white-block .hero-contact-bloc-text {
@@ -695,7 +694,6 @@ p {
 
 .important-text {
     font-size: 24px;
-    width: 500px;
     margin: auto;
     padding: 40px 0 40px 0; 
 }
