@@ -10,7 +10,7 @@ Ce repo contient le code modifié du site "La Panthère", une agence web basée 
 - Performance
 
 ## Langages
-Des modifications ont été ajoutées aux fichiers HTML & CSS, le JavaScript n'a pas été touché.
+Des modifications ont principalement été ajoutées aux fichiers HTML & CSS. Le JavaScript n'a été modifié que de manière mineure, et le code JS a été minifié pour gagner en performance.
 
 ## Statut
 Le projet est terminé.
